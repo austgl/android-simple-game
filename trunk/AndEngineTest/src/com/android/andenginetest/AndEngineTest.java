@@ -23,7 +23,7 @@ public class AndEngineTest extends BaseGameActivity {
 	// ===========================================================
 	// Constants
 	// ===========================================================
-
+    //’‚ «∏ˆ≤‚ ‘
 	private static final int CAMERA_WIDTH = 480;
 	private static final int CAMERA_HEIGHT = 320;
 
