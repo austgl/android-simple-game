@@ -1,9 +1,6 @@
-#Andengine的游戏设计结构
 = Introduction =
 我觉得这个设计结构比较合理
-Add your content here.
-
-
+*Activity*
 = Details =
 
 Add your content here.  Format your content with:
