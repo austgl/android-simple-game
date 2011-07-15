@@ -1,9 +1,0 @@
-= Introduction =
-我觉得这个设计结构比较合理
-*Activity*
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
